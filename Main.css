@@ -1,0 +1,41 @@
+  /* h1 {
+      color: aqua;
+      font-size: 50px;
+  } */
+  /* external */
+
+
+  /* #first-heading {  
+    color:black;
+  } */
+  /* id dung # */
+
+  /* .second-heading {
+    color:green;
+    font-size: 50px;
+  } */
+  /* class dung . */
+
+  /* #third-heading {
+    color:blueviolet;
+    font-size: 16px;
+  } */
+
+/* :root {
+    --text-color: purple;
+}
+
+h1 {
+    --my-color:green;
+    color:var(--my-color);
+}
+
+h2 {
+    color: var(--text-color);
+}
+
+h3 {
+    color: var(--text-color);
+} */
+
+
